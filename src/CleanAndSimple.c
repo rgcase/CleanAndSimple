@@ -92,7 +92,7 @@ void tick_handler(struct tm *tick_time, TimeUnits units_changed) {
   if (clock_is_24h_style()) {
     time_format = "%R";
   } else {
-    time_format = "%I:%M";
+    time_format = "%l:%M";
   }
   
   strftime(buffer, sizeof(buffer), time_format, tick_time);
