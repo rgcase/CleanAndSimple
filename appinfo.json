@@ -1,0 +1,17 @@
+{
+  "uuid": "1ca9e2bc-fa6f-48d7-85c6-42276640d539",
+  "shortName": "CleanAndSimple",
+  "longName": "CleanAndSimple",
+  "companyName": "MakeAwesomeHappen",
+  "versionCode": 1,
+  "versionLabel": "1.0.0",
+  "watchapp": {
+    "watchface": true
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": []
+  }
+}
